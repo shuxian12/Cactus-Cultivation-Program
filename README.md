@@ -15,7 +15,7 @@
 
 #### 成長中的阿掌🌵
 
-![level 1](image/圖片_3.png =50%x) ➡️ ![level 2](image/圖片_4.png) ➡️ ![level 3](image/圖片_5.png)
+![level 1](image/圖片_3.png) ➡️ ![level 2](image/圖片_4.png) ➡️ ![level 3](image/圖片_5.png)
 
 ## 遊戲前置設定
 
